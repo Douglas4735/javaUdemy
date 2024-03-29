@@ -14,7 +14,7 @@ public class aula02 {
 			x = sc.nextInt();
 		}
 		
-		System.out.println("FIM");
+		System.out.println("FIM DA EXECUÇÃO");
 		
 		sc.close();
 	}
