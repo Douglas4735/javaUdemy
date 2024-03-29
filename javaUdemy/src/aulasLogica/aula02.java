@@ -13,6 +13,7 @@ public class aula02 {
 		while(x != 0) {
 			x = sc.nextInt();
 		}
+		
 		System.out.println("FIM");
 		
 		sc.close();
