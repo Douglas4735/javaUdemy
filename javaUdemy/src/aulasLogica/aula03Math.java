@@ -8,7 +8,7 @@ public class aula03Math {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc = new Scanner(System.in);
+		
 		//min retorna o  menor valor.
 		/*
 		int n = Math.min(15, 5);
